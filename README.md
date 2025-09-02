@@ -1,4 +1,4 @@
-# AskAI - ChatGPT Clone with Gemini API
+# AskAI - Interactive ChatBot with Gemini API
 
 A modern AI chatbot application built with React, Vite, and Google's Gemini AI. Experience intelligent conversations with a sleek, responsive interface inspired by ChatGPT.
 
